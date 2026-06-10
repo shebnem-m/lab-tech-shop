@@ -1,6 +1,6 @@
 # Notes: my design log
 
-**Live URL (Vercel):** https://your-project-name.vercel.app
+**Live URL (Vercel):** https://lab-tech-shop-kohl.vercel.app/
 
 ## 1. Route and storage choice
 
